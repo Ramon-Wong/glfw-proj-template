@@ -1,2 +1,2 @@
 # glfw-proj-template
-basic template
+Basic Template for any GLFW 3.X/Opengl/Project
